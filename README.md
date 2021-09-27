@@ -1,3 +1,2 @@
 # Manometer
-AI-ML Blog
-Link to Blog : https://manometertech.herokuapp.com/
+AI-ML Blog : https://manometertech.herokuapp.com/
